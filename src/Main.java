@@ -10,8 +10,6 @@ public class Main {
     private static final String API_KEY = "b6907d289e10d714a6e88b30761fae22";
 
     public static void main(String[] args) throws IOException {
-
-        System.out.println("Hello world!");
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         while (true) {
